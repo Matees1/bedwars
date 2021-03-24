@@ -1,0 +1,7 @@
+name: Very Cool
+version: ${project.version}
+main: net.matees.Main
+api-version: 1.16
+authors: [ matees ]
+description: thing for zia
+website: net.matees:4256
